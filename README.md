@@ -10,7 +10,7 @@ I sometimes start side projects. This account has ~30 public repos (that aren't 
 
 There are 100+ Github stars and 300+ [projects that depend on it](https://github.com/Kinrany/vue-p5/network/dependents), so I'm happy to say that other people also liked the idea. I haven't been making many games in the last few years so the project could really use a facelift at this point.
 
-Related projets:
+Related projects:
 * [Kinrany/vue-p5-example](https://github.com/Kinrany/vue-p5-example)
 * [Kinrany/vue-p5-snake](https://github.com/Kinrany/vue-p5-snake)
 * [Kinrany/p5-asteroids](https://github.com/Kinrany/p5-asteroids)
