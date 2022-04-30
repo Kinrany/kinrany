@@ -28,9 +28,9 @@ Related projects:
 
 [Kinrany/one_hour_one_life](https://github.com/Kinrany/one_hour_one_life) is a client and a parser for [One Hour One Life](http://www.onehouronelife.com/) game server logs.
 
-### Programming languages
+### Other
 
-[Kinrany/awesome-ecosystems](https://github.com/Kinrany/awesome-ecosystems) compares tools provided by different programming language ecosystems: package managers, code formatters, etc.
+[Kinrany/awesome-ecosystems](https://github.com/Kinrany/awesome-ecosystems) is a list of tools provided by different programming language ecosystems: package managers, code formatters, etc.
 
 [Kinrany/katas](https://github.com/Kinrany/katas) compares Rust, TypeScript, C# and Clojure solutions to programming challenges.
 
