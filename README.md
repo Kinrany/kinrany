@@ -16,12 +16,6 @@ Related projects:
 * [Kinrany/p5-asteroids](https://github.com/Kinrany/p5-asteroids)
 * [Kinrany/ldjam45](https://github.com/Kinrany/ldjam45)
 
-### Personal
-
-[Kinrany/desktop](https://github.com/Kinrany/desktop) is a collection of scripts for configuring my Mac.
-
-[Kinrany/kinrany.dev](https://github.com/Kinrany/kinrany.dev) is an [mdBook](https://github.com/rust-lang/mdBook) hosted on [kinrany.dev](https://kinrany.dev/).
-
 ### Rust
 
 [Kinrany/inkstory](https://github.com/Kinrany/inkstory) converts [instory.su](https://instory.su/) interactive stories into [Ink](https://www.inklestudios.com/ink/) story files.
